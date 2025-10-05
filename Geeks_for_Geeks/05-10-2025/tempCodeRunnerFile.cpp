@@ -1,0 +1,1 @@
+cout << arr2[5] << endl;
