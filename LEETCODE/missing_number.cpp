@@ -12,4 +12,11 @@ class solution{
         return sum;
     }
 i;
+};
+
+int main (){
+    vector<int> nums = {3, 0, 1};
+    solution sol;
+    cout << sol.missingNumber(nums) << endl;
+    return 0;
 }
