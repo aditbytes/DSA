@@ -6,7 +6,6 @@ void merge(vector<int>& arr, int low, int mid, int high){
     int n1 = mid - low + 1;
     int n2 = high - mid;
 
-    // Use std::vector for temporary storage to avoid non-standard VLAs
     vector<int> left(n1);
     vector<int> right(n2);
 
