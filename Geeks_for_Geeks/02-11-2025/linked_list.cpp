@@ -38,3 +38,4 @@ int main() {
     head = head->next;
   }
 }
+
