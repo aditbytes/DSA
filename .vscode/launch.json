@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/aditya/CODING/DSA/Geeks_for_Geeks/PRACTICE_QUES",
+      "program": "/Users/aditya/CODING/DSA/Geeks_for_Geeks/PRACTICE_QUES/build/Debug/outDebug"
+    }
+  ]
+}
